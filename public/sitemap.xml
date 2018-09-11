@@ -29,13 +29,13 @@
   </url>
   
   <url>
-    <loc>/categories/bio/</loc>
+    <loc>/tags/bio/</loc>
     <lastmod>2015-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/bio/</loc>
+    <loc>/categories/bio/</loc>
     <lastmod>2015-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -53,14 +53,14 @@
   </url>
   
   <url>
-    <loc>/categories/meta/</loc>
-    <lastmod>2015-08-18T00:00:00+00:00</lastmod>
+    <loc>/tags/meta/</loc>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/meta/</loc>
-    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
+    <loc>/categories/meta/</loc>
+    <lastmod>2015-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
