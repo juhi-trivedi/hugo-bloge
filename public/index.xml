@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BlogE</title>
+    <link>/</link>
+    <description>Recent content on BlogE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Sep 2018 12:59:32 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Demo</title>
+      <link>/post/demo/</link>
+      <pubDate>Tue, 11 Sep 2018 12:59:32 +0530</pubDate>
+      
+      <guid>/post/demo/</guid>
+      <description> My demo </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>/post/first/</link>
+      <pubDate>Tue, 11 Sep 2018 12:48:45 +0530</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>First This is test post.</description>
+    </item>
+    
+    <item>
+      <title>Welcome Post</title>
+      <link>/post/welcome/</link>
+      <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>90&amp;rsquo;s slow-carb Schlitz Shoreditch mixtape typewriter, wayfarers Austin keffiyeh Helvetica artisan flexitarian. Health goth vinyl scenester pickled kitsch. Organic slow-carb stumptown freegan, PBR ugh chia Intelligentsia pork belly locavore retro kale chips. Tofu put a bird on it squid tattooed beard master cleanse, mumblecore keytar mustache blog direct trade PBR&amp;amp;B quinoa.
+Education  2015 - Master of Arts in Wine Tasting, University of British Columbia
+ 2013 - Bachelor of Arts , University of British Columbia</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,122 @@
+.site-about h1 {
+    margin-top: 0;
+    font-family: 'Abril Fatface';
+}
+
+.header {
+    border-bottom: 1px solid #f3f3f3;
+}
+
+ul.sidebar-nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul.sidebar-nav li {
+    float: left;
+}
+
+ul.sidebar-nav li a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 15px 20px;
+    display: inline-block;
+    font-family: 'PT Sans';
+    transition: all 0.3s ease-in-out;
+}
+
+ul.sidebar-nav li a:hover {
+    color: #e9526a;
+    text-decoration: underline;
+}
+
+.site-head {
+    padding: 18px 0;
+    display: inline-block;
+    /* float: left; */
+    width: 100%;
+    background: #8fcdff;
+}
+
+.site-logo {
+    position: relative;
+    top: 3px;
+    display: inline-block;
+    float: left;
+}
+
+.site-logo+nav {
+    display: inline-block;
+    float: right;
+}
+
+ul.sidebar-nav li:last-of-type a {
+    padding-right: 0;
+}
+
+.site-about {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+footer {
+    text-align: center;
+    background: #232323;
+    padding: 25px 0;
+}
+
+footer p {
+    margin: 0;
+    color: #fff;
+}
+
+.site-about .button {
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 50px;
+    background: #e9526a;
+    color: #fff;
+    font-family: 'PT Sans';
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.site-about .button:hover {
+    background-color: #8fcdff;
+    color: #000;
+}
+
+#content {
+    background: #fbfbfb;
+    display: inline-block;
+    width: 100%;
+}
+
+#content article.post {
+    padding: 50px;
+    background: #fff;
+    border: 9px solid #8fcdff;
+    -moz-box-shadow: 0 2px 30px 5px rgba(0, 0, 0, 0.12);
+    -webkit-box-shadow: 0 2px 30px 5px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 2px 30px 5px rgba(0, 0, 0, 0.12);
+    margin: 80px auto;
+}
+
+#content article.post .post-title {
+    margin-top: 0;
+    font-family: 'Abril Fatface';
+    margin-bottom: 10px;
+}
+
+#content article.post .post-title a {
+    text-decoration: none;
+    color: #e9526a;
+    transition: all 0.3s ease;
+}
+
+#content article.post .post-title a:hover {
+    color: #8fcdff;
+}

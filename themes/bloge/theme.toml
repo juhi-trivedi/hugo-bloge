@@ -1,0 +1,21 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Bloge"
+license = "MIT"
+licenselink = "https://github.com/juhi-trivedi/bloge/blob/master/LICENSE"
+description = "A simple blogging theme created using hugo."
+homepage = "http://example.com/"
+tags = [blog, bio]
+features = [blog]
+min_version = "0.41"
+
+[author]
+  name = "Juhi Trivedi"
+  homepage = "http://example.com/"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""

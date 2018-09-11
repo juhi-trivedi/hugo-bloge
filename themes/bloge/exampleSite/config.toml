@@ -1,0 +1,42 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "BlogE"
+theme = "bloge"
+
+googleAnalytics = ""
+pluralizeListTitles = false
+# Set the followings to true as part of your site SEO
+enableRobotsTXT = true
+canonifyURLs = true
+
+# Sets the menu items in the navigation bar
+# Identifier prepends a Font Awesome icon to the menu item
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 3
+
+
+# Paramaters for the whole site
+[params]
+  title = "juhi"
+  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque suscipit tellus vitae purus dignissim, nec tincidunt neque condimentum. Nam nec ligula pretium mi interdum hendrerit in sit amet ligula"
+  author = "Juhi Trivedi"
+
+#Paramaters for the home/landing page
+[params.landing]
+
+  [[params.landing.banner.button]]
+    url = "/"
+    text = "Learn More"
+    type = "special"

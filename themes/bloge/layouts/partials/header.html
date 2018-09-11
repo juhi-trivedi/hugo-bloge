@@ -1,0 +1,33 @@
+<header class="header">
+  <div class="site-head">
+    <div class="container">
+      <div class="row">
+        <div class="site-logo">
+          <a href=" {{ .Site.BaseURL }} "><img src="{{ .Site.BaseURL }}/images/bloge-logo.png" alt="site logo" /></a></div>
+        <nav>
+          <ul class="sidebar-nav">
+            {{ range .Site.Menus.main -}}
+            <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+            {{ end }}
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="site-about">
+        <div class="side-left col--6">
+          <h1>{{ .Site.Title }}</h1>
+          <p>{{ .Site.Params.description }}</p>
+          {{ range .Site.Params.Landing.Banner.button }}
+          <a href="{{ .url }}" class="button {{ .type }}">{{ .text }}</a>
+          {{ end }}
+        </div>
+        <div class="side-right col--6">
+              <img src="{{ .Site.BaseURL }}/images/banner-side.png" alt="image" />
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
