@@ -14,8 +14,11 @@
   {{- end }}
 
   <!-- CSS -->
-  <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/resetting.css">
-  <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/bloge.css">
+  <!-- <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/resetting.css">
+  <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/bloge.css"> -->
+
+  <link rel="stylesheet" href="{{ "css/resetting.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/bloge.css" | relURL }}">
   
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
 
