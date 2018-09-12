@@ -1,5 +1,5 @@
 ---
-title: "Welcome Post"
+title: "Only centuries Make Scrambled it to a type specimen!"
 description: "Post with Hugo website engine"
 date: "2015-08-19"
 categories:
