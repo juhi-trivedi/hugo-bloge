@@ -24,7 +24,7 @@ cleanse, mumblecore keytar mustache blog direct trade PBR&B quinoa.
 
 #### Education
 
-- 2015 - Master of Arts in Wine Tasting, University of British Columbia
+- 2014 - Bachelor of Information Technology, GTU
 
 - 2013 - Bachelor of Arts , University of British Columbia
  

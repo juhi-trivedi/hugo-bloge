@@ -124,3 +124,18 @@ footer p {
 #content article.post .post-title a:hover {
     color: #8fcdff;
 }
+
+#content div.post {
+    padding: 50px 0;
+}
+
+#content div.post h1 {
+    margin-top: 0;
+    font-family: 'Abril Fatface';
+}
+
+#content div.post .post-date {
+    display: block;
+    margin-bottom: 15px;
+    color: #9bc666;
+}
